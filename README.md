@@ -1,5 +1,15 @@
 # PruebaYapo
 Leer un csv y exportar resultados a csv de salida
-Proyecto relizado bajo gradle, con codigo java.
+Proyecto relizado bajo gradle, con codigo java y junit
 
-Proyecto que lee un archivo csv y toma como salida el resultado de una busqueda en otro archivo
+Tecnologia Implementada 📋
+Gradle
+junit
+Java
+Selenium
+Page Object Model
+
+
+
+
+
